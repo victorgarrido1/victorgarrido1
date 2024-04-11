@@ -1,3 +1,3 @@
-# Hi I am Victor
-I am currently a ASU BootCamp Student and learning the full stack web development. 
-Open to learn all sorts of technologies and other concepts.
+# Hi I am Victor Garrido
+I am a recent graduate of the Arizona State University Coding BootCamp. Seeking to grow and learn about web technologies and concepts.  
+## Work in progress 
